@@ -1,4 +1,4 @@
-# LEARN-JAVASCRIPT_8
+# LEARN-JAVASCRIPT_8_OBJECTS
 CodeCademy Course
 Team Stats
 
